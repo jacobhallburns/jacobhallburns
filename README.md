@@ -1,4 +1,4 @@
-## Hi there 👋
+## Simplicity, patience, and compassion. These three are your greatest treasures. - Lao Tzu
 
 <!--
 **jacobhallburns/jacobhallburns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
