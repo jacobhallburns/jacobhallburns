@@ -1,7 +1,7 @@
 ## Simplicity, patience, and compassion. These three are your greatest treasures. - Lao Tzu
 
-I am an avid reader, writer, programmer, and game enjoyer.
-I am in the Army National Guard and a Senior at the Florida Institute of Technology
+My name is Jacob Hall-Burns, and I am an avid reader, writer, programmer, and game enthusiast.
+I am a member of the Florida Army National Guard and Military Intelligence Community, as well as a Senior at the Florida Institute of Technology.
 
 ### Current Video Games:
 * Baba is you - Hempuli Oy
@@ -13,15 +13,15 @@ I am in the Army National Guard and a Senior at the Florida Institute of Technol
 * The Last Spell - Ishtar Games
 
 ### Current Books:
-* Foundation - Isaac Asimov
 * Bastion - Phil Tucker
-* Dungeon Crawler Carl - Matt Dinniman 
+* Dungeon Crawler Carl - Matt Dinniman
+* Foundation - Isaac Asimov
 * He Who Fights With Monsters - Travis Deverell
 
 ### Current Hobbies:
 * Walking in Botanical Gardens
-* Writing Short Stories
-* Practicing cooking gluten-free for my Girlfriend 
+* Writing Short Stories.
+* Learning how to cook gluten-free meals for my girlfriend.
 
 ### Current Coding Projects:
 * Visual novel exploring the chapters of the Tao Te Ching artistically.
