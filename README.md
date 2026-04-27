@@ -24,6 +24,8 @@ I am a member of the Florida Army National Guard and Military Intelligence Commu
 * Learning how to cook gluten-free meals for my girlfriend.
 
 ### Current Coding Projects:
+* One Way Attack (OWA) Drone Path Simulation (For Defense)
+* Alarm Clock app with Voice Messages (For Personal Use)
 * Visual novel exploring the chapters of the Tao Te Ching artistically.
 * Expanding MyMangaReader by adding Amazon Affiliate links for users' ease of use in purchasing manga volumes while providing revenue without degrading the user experience through advertisements. 
 * Library for visualizing satellites' historical, current, and upcoming paths over a certain area to simplify finding commercial satellites to request imagery from for TacSRT.
